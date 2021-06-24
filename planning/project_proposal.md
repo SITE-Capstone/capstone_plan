@@ -1,6 +1,6 @@
 # Project Proposal
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Xavier Loera Flores | Carlos Chavez**
 
 ## Problem Statement
 
