@@ -1,21 +1,21 @@
-📝 `NOTE` Use this template repo to initialize the contents of your group's capstone repo project. As you work on your assignment over the course of the week, update the appropriate repo deliverables. All project planning should be included in the planning directory. (🚫 Remove this paragraph before submitting your assignment.)
-
 # SITE Capstone Project
 
-SITE Course Year: **20__**
+SITE Course Year: **2021**
 
-Cohort: **Add Company Sponsor Name**
+Cohort: **Workday**
 
-Team Member Names:**Insert Team Member Names**
+Team Member Names:**Xavier Loera Flores | Carlos Chavez**
 
-Mentors Names: **Insert Professional Mentor Names**
+Mentors Names: **Tre Kendrick | William Ma**
 
 ## Project Overview
 
-Add a quick summary of what your project theme and objectives are. 
+Many investors see the potential and value of cryptocurrencies but do not own any crypto due to a lack of established trust or knowledge with the cryptocurrency market. Our platform will act as a learning platform for new investors to learn about and understand the tokenomics of different cryptocurrencies through a variety of means which include currated lessons/information, a paper trading simulator, and the latest aggregated news relating to cryptocurrencies.
 
 Deployment Website: **Add Link to Deployed Project**
 
-### Open-source libraries used
+### Open-source libraries or APIs used
 
-- Add any links to open-source libraries used in your project.
+- CoinAPI     : https://www.coinapi.io
+- Recharts    : https://recharts.org
+- Chakra      : https://chakra-ui.com
