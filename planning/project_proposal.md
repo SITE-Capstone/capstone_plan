@@ -23,7 +23,7 @@ What is the main purpose of your project? What are the key features your site ha
 
 ## Related Work
 
-What similar apps and websites? How will your project stand out from these other websites?
+Similar paper trading apps exist for users to trade fake money, however these apps do not inheritely teach users aboout investing and are more used as a game. Apps in this space are also skewed towards stocks, where our app will be specific to cryptocurrency trading and focus on eduacating users while also allowing them to practice their newly learned investment strategies through paper trading of the top cryptocurrencies.
 
 ## Open Questions
 
