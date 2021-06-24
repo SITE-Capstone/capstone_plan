@@ -40,7 +40,6 @@ Similar paper trading apps exist for users to trade fake money, however these ap
 - How do we gather information about different crypto currencies without having to hard code them ourselves?
 - How do we create currated lessons?
 - How should we plan the lessons?
-- 
 
 
 
