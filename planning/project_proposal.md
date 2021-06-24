@@ -37,4 +37,10 @@ Similar paper trading apps exist for users to trade fake money, however these ap
 
 ## Open Questions
 
-What questions do you still have? What topics do you need to research more for your project?
+- How do we gather information about different crypto currencies without having to hard code them ourselves?
+- How do we create currated lessons?
+- How should we plan the lessons?
+- 
+
+
+
