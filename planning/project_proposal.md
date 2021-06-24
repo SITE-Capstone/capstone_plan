@@ -9,6 +9,7 @@ Many investors see the potential and value of cryptocurrencies but do not own an
 ## Description
 
 What is the main purpose of your project? What are the key features your site has to offer its users? How will your targeted audience use your website?
+Our platform will act as a learning platform for new investors to learn about and understand the tokenomics of different cryptocurrencies through a variety of means which include currated lessons/information, a paper trading simulator, and the latest aggregated news relating to crptocurrencies. 
 
 ## Expected Features List
 
