@@ -12,7 +12,14 @@ What is the main purpose of your project? What are the key features your site ha
 
 ## Expected Features List
 
-Add a list of your groups's brainstormed features list
+
+View price charts of 10 different crypto currencies
+Display crypto tokenomics and basic info for each coin
+Login or SignUp 
+Paper trade crypto currencies
+Aggregated news columnn with news related to each crypto
+
+
 
 ## Related Work
 
