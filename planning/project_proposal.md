@@ -12,12 +12,21 @@ What is the main purpose of your project? What are the key features your site ha
 
 ## Expected Features List
 
+CORE FEATURES:
 
 - View price charts of 10 different crypto currencies
 - Display crypto tokenomics and basic info for each coin
-- Login or SignUp 
+- Login and SignUp 
+- Ledger system for transactions
+- User authentication to manage user wallets.
 - Paper trade crypto currencies
 - Aggregated news columnn with news related to each crypto
+- Tutorials to educate the user on cryptocurrency and trading
+
+STRETCH FEATURES:
+
+- Light/Dark mode for the app
+- Interactive charts with tooltips for user
 
 
 
