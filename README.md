@@ -19,3 +19,4 @@ Deployment Website: **Add Link to Deployed Project**
 - CoinAPI     : https://www.coinapi.io
 - Recharts    : https://recharts.org
 - MaterialUI  : https://material-ui.com 
+- News API    : https://newsapi.org/s/google-news-api
