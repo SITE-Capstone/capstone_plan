@@ -4,7 +4,7 @@ Pod Members: **Carlos Chavez | Xavier Loera Flores**
 
 ## Problem Statement
 
-Insert your groups problem statement and target audience.
+Many investors see the potential and value of cryptocurrencies but do not own any crypto due to a lack of established trust or knowledge with the cryptocurrency market. We are building a learning platform to introduce new investors to crypto currencies and to build on the knowledge of inexperienced crypto investors.
 
 ## User Roles
 
