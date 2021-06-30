@@ -20,12 +20,12 @@ CORE FEATURES:
 - Ledger system for transactions
 - User authentication to manage user wallets.
 - Paper trade crypto currencies
-- Aggregated news columnn with news related to each crypto
 - Tutorials to educate the user on cryptocurrency and trading
 
 STRETCH FEATURES:
 
-- Light/Dark mode for the app
+- Aggregated news columnn with news related to each crypto
+- Add information for each coin about what exchanged carry it for trading
 - Interactive charts with tooltips for user
 - Display information about amount of mentions a coin has on social media to gauge it's popularity
 
@@ -33,7 +33,7 @@ STRETCH FEATURES:
 
 ## Related Work
 
-Similar paper trading apps exist for users to trade fake money, however these apps do not inheritely teach users aboout investing and are more used as a game. Apps in this space are also skewed towards stocks, where our app will be specific to cryptocurrency trading and focus on eduacating users while also allowing them to practice their newly learned investment strategies through paper trading of the top cryptocurrencies.
+Similar paper trading apps exist for users to trade fake money, however these apps do not inheritely teach users aboout investing and are more used as a game. Apps in this space are also skewed towards stocks, where our app will be specific to cryptocurrency trading and focus on educating users while also allowing them to practice their newly learned investment strategies through paper trading of the top cryptocurrencies.
 
 ## Open Questions
 
