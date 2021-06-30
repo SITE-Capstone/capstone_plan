@@ -24,6 +24,8 @@ Experienced:
 
 - John is an accountant living in San Francisco, California. He is interested in cryptocurrencies and is experienced with what they are. He spends time trading cryptocurrencies but has taken some recent losses and wants to revise his trading strategies without incurring any actual monetary losses. He mostly trades on a computer and on a frequent basis, almost daily. He is motivated to use this app because he can try his hand at investing into more volatile and risky coins in an effort to research new trading strategies that may help his real investments. 
 
+- Mary is a 25 year old software engineer and experienced crypto investor from Seattle. She wants to discover new coins and gain a larger insight in the tokenomics and history of different coins. Before, she would conduct web searches online but now she wishes there was a consolidated place to gather some key information. Mary wants to be able to search for different coins to learn about its description, price history, available excahnges that support the coin, econonmic indicators, and how each coin compares to another. 
+
 ## User Stories
 
 Include at least 10 user stories.
