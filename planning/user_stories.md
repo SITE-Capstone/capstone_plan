@@ -38,7 +38,7 @@ Experienced:
 7. As an experienced user, I want to be able to view the recent news about certain coins, so that I can understand how it would affect the market.
 8. As an experienced user, I want to be able to see what exchanges offer coins I'm interested in, so that I know where I can trade the coin. 
 9. As an experienced user, I want to be able to paper trade riskier crypto currencies and trading strategies, so that I can develop new trading plans.
-10. As an experienced user, I want to be able to see how my trading strategies perform against other user's trading strategies, so I gauge how viable my strategy is against other strategies.
+10. As an experienced user, I want to be able to see how my trading strategies perform against other user's trading strategies, so I can gauge how viable my strategy is against other strategies.
 
 ## Wireframe (Bonus)
 
