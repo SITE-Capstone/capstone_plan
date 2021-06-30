@@ -15,9 +15,10 @@ Many investors see the potential and value of cryptocurrencies but do not own an
 ## User Personas
 
 Novice:
-Kelly is a highschool student studying econonmics in school who would like to learn about investing in cryto currencies but isn't old enough to open an account and doesn't know where to start her learning journey. Kelly would like a platform that would help guide her in her crypto learning journey and prepare her to become a crypto investor when she is ready to invest. 
 
-Michael is an experienced index fund and stock investor who doesn't trust crypto currencies and is weary of all the mixed information about crypo currencies. Michael wants to learn more about the fundamentals of crypto currencies so that he can understand crypto currencies and feel safer about investing his money. 
+- Kelly is a highschool student studying econonmics in school who would like to learn about investing in cryto currencies but isn't old enough to open an account and doesn't know where to start her learning journey. Kelly would like a platform that would help guide her in her crypto learning journey and prepare her to become a crypto investor when she is ready to invest. 
+
+- Michael is an experienced index fund and stock investor who doesn't trust crypto currencies and is weary of all the mixed information about crypo currencies. Michael wants to learn more about the fundamentals of crypto currencies so that he can understand crypto currencies and feel safer about investing his money. 
 
 
 
