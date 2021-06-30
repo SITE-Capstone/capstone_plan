@@ -18,4 +18,4 @@ Deployment Website: **Add Link to Deployed Project**
 
 - CoinAPI     : https://www.coinapi.io
 - Recharts    : https://recharts.org
-- Chakra      : https://chakra-ui.com
+- MaterialUI  : https://material-ui.com 
