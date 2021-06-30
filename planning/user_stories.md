@@ -20,7 +20,9 @@ Novice:
 
 - Michael is an experienced index fund and stock investor who doesn't trust crypto currencies and is weary of all the mixed information about crypo currencies. Michael wants to learn more about the fundamentals of crypto currencies so that he can understand crypto currencies and feel safer about investing his money. 
 
+Experienced:
 
+- John is an accountant living in San Francisco, California. He is interested in cryptocurrencies and is experienced with what they are. He spends time trading cryptocurrencies but has taken some recent losses and wants to revise his trading strategies without incurring any actual monetary losses. He mostly trades on a computer and on a frequent basis, almost daily. He is motivated to use this app because he can try his hand at investing into more volatile and risky coins in an effort to research new trading strategies that may help his real investments. 
 
 ## User Stories
 
