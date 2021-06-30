@@ -25,6 +25,7 @@ CORE FEATURES:
 STRETCH FEATURES:
 
 - Aggregated news columnn with news related to each crypto
+- Blog page that allows users to select a trade and post to explain about the trade and about their strategy.
 - Add information for each coin about what exchanged carry it for trading
 - Interactive charts with tooltips for user
 - Display information about amount of mentions a coin has on social media to gauge it's popularity
