@@ -28,7 +28,6 @@ Experienced:
 
 ## User Stories
 
-Include at least 10 user stories.
 
 1. As a novice, I want to be able to create an account and login, so that my progress and information can be saved. 
 2. As a novice, I want to complete guided lessons, so that I can gain a basic understanding of what crypto currencies are.
