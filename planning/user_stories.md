@@ -8,7 +8,9 @@ Many investors see the potential and value of cryptocurrencies but do not own an
 
 ## User Roles
 
-Include at least at least 1, but no more than 3, user roles
+"Novice": a crypto currency novice aspiring to gain knowledge and experience trading and learning about crypto
+
+"Experienced": a crypto currency enthusiast who wants to track crypto prices and practice trading strategies
 
 ## User Personas
 
