@@ -16,7 +16,7 @@ Many investors see the potential and value of cryptocurrencies but do not own an
 
 Novice:
 
-- Kelly is a highschool student studying econonmics in San Diego who would like to learn about investing in cryto currencies but isn't old enough to open an account and doesn't know where to start her learning journey. Kelly would like a platform that would help guide her in her crypto learning journey and prepare her to become a crypto investor when she is ready to invest. She spends plenty of her time on her phone while riding the bus and would like to be able to learn on the go with quick easily digestible lessons. 
+- Kelly is a student studying economics in San Diego who would like to learn about investing in cryto currencies but isn't old enough to open an account and doesn't know where to start her learning journey. Kelly would like a platform that would help guide her in her crypto learning journey and prepare her to become a crypto investor when she is ready to invest. She spends plenty of her time on her phone while riding the bus and would like to be able to learn on the go with quick easily digestible lessons. 
 
 - Michael a 27 year old experienced index fund and stock investor from New York City who doesn't trust crypto currencies and is weary of all the mixed information about crypo currencies. Michael wants to learn more about the fundamentals of crypto currencies so that he can understand crypto currencies and feel safer about investing his money. He would like to be introduced to different coins with some details on where to find more information on his desktop browser. 
 
@@ -24,7 +24,7 @@ Experienced:
 
 - John is an accountant living in San Francisco, California. He is interested in cryptocurrencies and is experienced with what they are. He spends time trading cryptocurrencies but has taken some recent losses and wants to revise his trading strategies without incurring any actual monetary losses. He mostly trades on a computer and on a frequent basis, almost daily. He is motivated to use this app because he can try his hand at investing into more volatile and risky coins in an effort to research new trading strategies that may help his real investments. 
 
-- Mary is a 25 year old software engineer and experienced crypto investor from Seattle. She wants to discover new coins and gain a larger insight in the tokenomics and history of different coins. Before, she would conduct web searches online but now she wishes there was a consolidated place to gather some key information. Mary wants to be able to search for different coins to learn about its description, price history, available excahnges that support the coin, econonmic indicators, and how each coin compares to another. 
+- Mary is a 25 year old software engineer and experienced crypto investor from Seattle. She wants to discover new coins and gain a larger insight in the tokenomics and history of different coins. Before, she would conduct web searches online but now she wishes there was a consolidated place to gather some key information. Mary wants to be able to search for different coins to learn about its description, price history, available exchanges that support the coin, econonmic indicators, and how each coin compares to another. 
 
 ## User Stories
 
