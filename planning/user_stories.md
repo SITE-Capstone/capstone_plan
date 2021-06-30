@@ -31,14 +31,15 @@ Experienced:
 
 1. As a novice, I want to be able to create an account and login, so that my progress and information can be saved. 
 2. As a novice, I want to complete guided lessons, so that I can gain a basic understanding of what crypto currencies are.
-3. As a novice, I want to be introduced a set of the most popular coins, so that I can get started with understanding specific projects.
+3. As a novice, I want to be introduced to crypto using a set of the most popular coins, so that I can get started with understanding the purpose of each coin.
 4. As a novice, I want to be able to paper trade crypto currencies, so that I can practice without acquring any risk. 
 5. As a novice, I want to be able to see the definitions of different crypto terminology, so that I can understand the information I am reading on charts and news. 
 6. As an experienced user, I want to be able to skip the tutorial for coins I am already familar with, so that I can get started with monitoring coins.
 7. As an experienced user, I want to be able to view the recent news about certain coins, so that I can understand how it would affect the market.
 8. As an experienced user, I want to be able to see what exchanges offer coins I'm interested in, so that I know where I can trade the coin. 
-9. As an experienced user, I want to be able to paper trade riskier crypto currencies and trading strategies, so that I can develop new trading plans.
-10. As an experienced user, I want to be able to see how my trading strategies perform against other user's trading strategies, so I can gauge how viable my strategy is against other strategies.
+9. As an experienced user, I want to be able to share and read trading strategies with other users, so that I can develop new trading plans.
+10. As an experienced user, I want to be able to see a coins popularity online, so that I can gauge population interest to time my investments. 
+
 
 ## Wireframe (Bonus)
 
