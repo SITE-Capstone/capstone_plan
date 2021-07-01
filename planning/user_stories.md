@@ -38,7 +38,7 @@ Experienced:
 7. As an experienced user, I want to be able to view the recent news about certain coins, so that I can understand how it would affect the market.
 8. As an experienced user, I want to be able to see what exchanges offer coins I'm interested in, so that I know where I can trade the coin. 
 9. As an experienced user, I want to be able to share and read trading strategies with other users, so that I can develop new trading plans.
-10. As an experienced user, I want to be able to see a coins popularity online, so that I can gauge population interest to time my investments. 
+10. As an experienced user, I want to be able to see a coins popularity on social media, so that I can gauge the amount of interest and properly time my investments. 
 
 
 ## Wireframe (Bonus)
