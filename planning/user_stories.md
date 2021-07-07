@@ -43,4 +43,4 @@ Experienced:
 
 ## Wireframe (Bonus)
 
-Insert link or image to your group's wireframe. 
+https://www.figma.com/file/UIiQL2vazLmBZb8x0o9Vo4/Capstone?node-id=0%3A1
