@@ -41,6 +41,11 @@ Experienced:
 10. As an experienced user, I want to be able to see a coins popularity on social media, so that I can gauge the amount of interest and properly time my investments. 
 
 
-## Wireframe (Bonus)
+## Wireframe
 
 https://www.figma.com/file/UIiQL2vazLmBZb8x0o9Vo4/Capstone?node-id=0%3A1
+
+## Wireframe Prototype 
+
+https://www.figma.com/proto/UIiQL2vazLmBZb8x0o9Vo4/Capstone?node-id=4%3A4&scaling=contain&page-id=0%3A1 
+
