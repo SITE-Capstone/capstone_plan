@@ -4,7 +4,7 @@ SITE Course Year: **2021**
 
 Cohort: **Workday**
 
-Team Member Names:**Xavier Loera Flores | Carlos Chavez**
+Team Member Names: **Xavier Loera Flores | Carlos Chavez**
 
 Mentors Names: **Tre Kendrick | William Ma**
 
@@ -12,9 +12,11 @@ Mentors Names: **Tre Kendrick | William Ma**
 
 Many investors see the potential and value of cryptocurrencies but do not own any crypto due to a lack of established trust or knowledge with the cryptocurrency market. Our platform will act as a learning platform for new investors to learn about and understand the tokenomics of different cryptocurrencies through a variety of means which include currated lessons/information, a paper trading simulator, and the latest aggregated news relating to cryptocurrencies.
 
-Backend Repository: https://github.com/SITE-Capstone/capstone_be
+Backend Repository:     https://github.com/SITE-Capstone/capstone_be
 
-Frontend Repository: https://github.com/SITE-Capstone/capstone_fe 
+Frontend Repository:    https://github.com/SITE-Capstone/capstone_fe
+
+Figma Wireframe:        https://www.figma.com/file/UIiQL2vazLmBZb8x0o9Vo4/Capstone?node-id=0%3A1   
 
 Deployment Website: **Add Link to Deployed Project**
 
