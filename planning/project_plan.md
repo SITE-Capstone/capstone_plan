@@ -58,7 +58,7 @@ List the API endpoints you will need to implement.
 | CRUD | HTTP Verb | Description | User Stories |
 | ---- | --------- | ----------- | ------------ |
 | Create | POST | Create a new user account | ? |
-| Create | Post | Authenticates user account for sign in | ? |
+| Create | POST | Authenticates user account for sign in | ? |
 | Read | GET | Get's user profile details | ? |
 
 
