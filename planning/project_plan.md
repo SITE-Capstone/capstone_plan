@@ -57,10 +57,15 @@ List the API endpoints you will need to implement.
 
 | CRUD | HTTP Verb | Description | User Stories |
 | ---- | --------- | ----------- | ------------ |
-| Create | POST | Create a new user account | ? |
-| Create | POST | Authenticates user account for sign in | ? |
-| Read | GET | Get's user profile details | ? |
-
+| Create | POST | Create a new user account | 1 |
+| Create | POST | Authenticates user account for sign in | 1 |
+| Read | GET | Get's user profile details | 1, 4 |
+| Read | GET | See a list of all tutorials | 2, 3, 5 |
+| Read | GET | Display single tutorial once clicked | 2, 3, 5 |
+| Read | GET | Display personalized dashboard to user  | 4, 6 |
+| Read | GET | Display information about a single coin | 4, 7, 8 |
+| Create | POST | Purchase coin with paper money | 4 |
+| Update | PUT | Update user wallet after purchases | 4 |
 
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
