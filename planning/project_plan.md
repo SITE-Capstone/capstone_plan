@@ -68,6 +68,7 @@ User Table:
 | first_name | text | User's first name |
 | last_name | text | User's last name |
 | created_at | date | User's account creation date |
+| tutorials_completed | array | User's list of completed tutorials |
 
 
 Wallet Table:
@@ -83,6 +84,7 @@ Wallet Table:
 | xmr | integer | Total amount of Monero that the User has |
 | doge | integer | Total amount of Dogecoin that the User has |
 
+
 Tutorials Table:
 | Column Name | Type | Description |
 | ----------- | ---- | ----------- |
@@ -97,6 +99,8 @@ Tutorials Table:
 | tut07 | boolean | Stores whether or not the user completed the tutorial Default: false |
 | tut08 | boolean | Stores whether or not the user completed the tutorial Default: false |
 | tut09 | boolean | Stores whether or not the user completed the tutorial Default: false |
+
+
 
 
 
@@ -118,6 +122,6 @@ List the API endpoints you will need to implement.
 | Update | PUT | Update user wallet after purchases | 4 |
 | Read | Get | Get the state of all the tutorials | 6 | 
 | Update | PUT | Update tutorial state after user completes it | 6 |
-
+| Delete | DELETE | Delete User Account | ? |
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
