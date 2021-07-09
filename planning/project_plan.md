@@ -76,7 +76,7 @@ Wallet Table:
 | ----------- | ---- | ----------- |
 | id | integer | Primary key |
 | user_id | integer | Foreign key for user table |
-| usd | integer | Total amount of USD that the User (potentially in pennies or dollars) Default: 10000 |
+| usd | integer | Total amount of USD that the User (stored in pennies to be converted to dollars) Default: 10000 |
 | btc | integer | Total amount of Bitcoin(in Satoshis) that the User has |
 | eth | integer | Total amount of Ethereum that the User has |
 | ada | integer | Total amount of Cardano that the User has |
