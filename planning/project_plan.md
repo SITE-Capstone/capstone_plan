@@ -48,6 +48,8 @@ Experienced:
 - Dashboard
 - Single Tutorial View
 - Trade View
+
+
 Complete Wireframe: https://www.figma.com/file/UIiQL2vazLmBZb8x0o9Vo4/Capstone?node-id=0%3A1
 
 Wireframe Prototype: https://www.figma.com/proto/UIiQL2vazLmBZb8x0o9Vo4/Capstone?node-id=4%3A4&scaling=contain&page-id=0%3A1 
