@@ -76,6 +76,21 @@ Wallet Table:
 | xmr | integer | Total amount of Monero that the User has |
 | doge | integer | Total amount of Dogecoin that the User has |
 
+Tutorials Table:
+| Column Name | Type | Description |
+| ----------- | ---- | ----------- |
+| id | integer | Primary key |
+| user_id | integer | Foreign key for user table |
+| tut01 | boolean | Stores whether or not the user completed the tutorial Default: false |
+| tut02 | boolean | Stores whether or not the user completed the tutorial Default: false |
+| tut03 | boolean | Stores whether or not the user completed the tutorial Default: false |
+| tut04 | boolean | Stores whether or not the user completed the tutorial Default: false |
+| tut05 | boolean | Stores whether or not the user completed the tutorial Default: false |
+| tut06 | boolean | Stores whether or not the user completed the tutorial Default: false |
+| tut07 | boolean | Stores whether or not the user completed the tutorial Default: false |
+| tut08 | boolean | Stores whether or not the user completed the tutorial Default: false |
+| tut09 | boolean | Stores whether or not the user completed the tutorial Default: false |
+
 
 
 
@@ -84,7 +99,7 @@ Wallet Table:
 List the API endpoints you will need to implement.
 
 | CRUD | HTTP Verb | Description | User Stories |
-| ---- | --------- | ----------- | ------------ |
+| :----: | :---------: | ----------- | :------------: |
 | Create | POST | Create a new user account | 1 |
 | Create | POST | Authenticates user account for sign in | 1 |
 | Read | GET | Get's user profile details | 1, 4 |
