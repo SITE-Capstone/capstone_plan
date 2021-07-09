@@ -60,7 +60,23 @@ User Table:
 | password | text | User's password |
 | first_name | text | User's first name |
 | last_name | text | User's last name |
-| created_at | date | User's account creation date|
+| created_at | date | User's account creation date |
+
+
+Wallet Table:
+| Column Name | Type | Description |
+| ----------- | ---- | ----------- |
+| id | integer | Primary key |
+| user_id | integer | Foreign key for user table |
+| usd | integer | Total amount of USD that the User (potentially in pennies or dollars) Default: 10000 |
+| btc | integer | Total amount of Bitcoin(in Satoshis) that the User has |
+| eth | integer | Total amount of Ethereum that the User has |
+| ada | integer | Total amount of Cardano that the User has |
+| dot | integer | Total amount of Polkadot that the User has |
+| xmr | integer | Total amount of Monero that the User has |
+| doge | integer | Total amount of Dogecoin that the User has |
+
+
 
 
 ## Endpoints
