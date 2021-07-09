@@ -41,9 +41,15 @@ Experienced:
 
 ## Pages/Screens
 
-List all the pages and screens in the app. Include wireframes for at least 3 of them.
+- Landing
+- Log In
+- Register
+- Tutorial Home
+- Dashboard
+- Single Tutorial View
+- Trade View
 
-- Wireframe: https://www.figma.com/file/UIiQL2vazLmBZb8x0o9Vo4/Capstone?node-id=0%3A1
+- Complete Wireframe: https://www.figma.com/file/UIiQL2vazLmBZb8x0o9Vo4/Capstone?node-id=0%3A1
 
 - Wireframe Prototype: https://www.figma.com/proto/UIiQL2vazLmBZb8x0o9Vo4/Capstone?node-id=4%3A4&scaling=contain&page-id=0%3A1 
 
