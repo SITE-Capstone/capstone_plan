@@ -55,4 +55,12 @@ Describe your app's data model using diagrams or tables
 
 List the API endpoints you will need to implement.
 
+| CRUD | HTTP Verb | Description | User Stories |
+| ---- | --------- | ----------- | ------------ |
+| Create | POST | Create a new user account | ? |
+| Create | Post | Authenticates user account for sign in | ? |
+| Read | GET | Get's user profile details | ? |
+
+
+
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
