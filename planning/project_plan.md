@@ -106,6 +106,6 @@ List the API endpoints you will need to implement.
 | Update | PUT | Update user wallet after purchases | 4 |
 | Read | GET | Get the state of all the tutorials | 6 | 
 | Update | PUT | Update tutorial state after user completes it | 6 |
-| Delete | DELETE | Delete User Account | ? |
+| Delete | DELETE | Delete User Account | 1 |
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
