@@ -68,7 +68,7 @@ User Table:
 | first_name | text | User's first name |
 | last_name | text | User's last name |
 | created_at | date | User's account creation date |
-| tutorials_completed | array | User's list of completed tutorials |
+| tutorials_completed | text | User's list of completed tutorials (stringify json object) |
 
 
 Wallet Table:
@@ -83,22 +83,6 @@ Wallet Table:
 | dot | integer | Total amount of Polkadot that the User has |
 | xmr | integer | Total amount of Monero that the User has |
 | doge | integer | Total amount of Dogecoin that the User has |
-
-
-Tutorials Table:
-| Column Name | Type | Description |
-| ----------- | ---- | ----------- |
-| id | integer | Primary key |
-| user_id | integer | Foreign key for user table |
-| tut01 | boolean | Stores whether or not the user completed the tutorial Default: false |
-| tut02 | boolean | Stores whether or not the user completed the tutorial Default: false |
-| tut03 | boolean | Stores whether or not the user completed the tutorial Default: false |
-| tut04 | boolean | Stores whether or not the user completed the tutorial Default: false |
-| tut05 | boolean | Stores whether or not the user completed the tutorial Default: false |
-| tut06 | boolean | Stores whether or not the user completed the tutorial Default: false |
-| tut07 | boolean | Stores whether or not the user completed the tutorial Default: false |
-| tut08 | boolean | Stores whether or not the user completed the tutorial Default: false |
-| tut09 | boolean | Stores whether or not the user completed the tutorial Default: false |
 
 
 
