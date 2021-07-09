@@ -49,7 +49,19 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 
 ## Data Model
 
-Describe your app's data model using diagrams or tables
+
+User Table:
+
+| Column Name | Type | Description |
+| ----------- | ---- | ----------- |
+| id | integer | Primary key |
+| username | text | User's username |
+| email | text | User's email |
+| password | text | User's password |
+| first_name | text | User's first name |
+| last_name | text | User's last name |
+| created_at | date | User's account creation date|
+
 
 ## Endpoints
 
