@@ -30,7 +30,7 @@ Experienced:
 
 1. As a novice, I want to be able to create an account and login, so that my progress and information can be saved. 
 2. As a novice, I want to complete guided lessons, so that I can gain a basic understanding of what crypto currencies are.
-3. As a novice, I want to learn about each of the top 10 coins through short understandable lessons, so that I know what it is I am investing in. 
+3. As a novice, I want to learn about each of the top 6 coins through short understandable lessons, so that I know what it is I am investing in. 
 4. As a novice, I want to be able to paper trade crypto currencies, so that I can practice without acquring any risk. 
 5. As a novice, I want to be able to see the definitions of different crypto terminology, so that I can understand the information I am reading on charts and news. 
 6. As an experienced user, I want to be able to skip the tutorial for coins I am already familar with, so that I can get started with monitoring coins.
@@ -109,6 +109,8 @@ List the API endpoints you will need to implement.
 | Read | GET | Display information about a single coin | 4, 7, 8 |
 | Create | POST | Purchase coin with paper money | 4 |
 | Update | PUT | Update user wallet after purchases | 4 |
+| Read | Get | Get the state of all the tutorials | 6 | 
+| Update | PUT | Update tutorial state after user completes it | 6 |
 
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
