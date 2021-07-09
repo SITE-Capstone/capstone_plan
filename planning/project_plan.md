@@ -104,7 +104,7 @@ List the API endpoints you will need to implement.
 | Read | GET | Display information about a single coin | 4, 7, 8 |
 | Create | POST | Purchase coin with paper money | 4 |
 | Update | PUT | Update user wallet after purchases | 4 |
-| Read | Get | Get the state of all the tutorials | 6 | 
+| Read | GET | Get the state of all the tutorials | 6 | 
 | Update | PUT | Update tutorial state after user completes it | 6 |
 | Delete | DELETE | Delete User Account | ? |
 
