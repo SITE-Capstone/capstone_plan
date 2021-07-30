@@ -18,7 +18,12 @@ Did you finish all of your tasks in your sprint plan for this week? If you did n
 
 Did the resources provided to you help prepare you in planning and executing your capstone project sprint this week? Be specific, what resources did you find particularly helpful or which tasks did you need more support on?
 
-- 
+- We were provided serveral online resources that gave us information regarding CRON jobs. Here are those resources: 
+- https://stackoverflow.com/questions/39057883/heroku-and-node-cron
+- https://www.npmjs.com/package/node-pg-migrate
+- https://stackoverflow.com/questions/46404051/send-object-with-axios-get-request
+- https://www.heroku.com/pricing#containers
+- https://www.npmjs.com/package/node-cron
 
 Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
 
