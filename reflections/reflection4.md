@@ -22,4 +22,4 @@ Did the resources provided to you help prepare you in planning and executing you
 
 Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
 
- The blog feature & twitter features will not be done by the end of the program for sure. 
+- The blog feature & twitter features will not be done by the end of the program for sure. 
